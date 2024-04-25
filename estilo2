@@ -1,0 +1,29 @@
+*{
+    background-color: #dddddd;
+}
+
+div{
+    width: 50%;
+    background-color: white;
+    text-align: left;
+    margin-left: 25%;
+    padding: 1%;
+    border-radius: 3%;
+    margin-top: 10px;
+    list-style-image: url(./024fc5c5b9125a2d29d31750e90c1700.png);
+}
+
+footer{
+    text-align: center;
+    font-size: medium;
+    background-color: darkgray;
+}
+
+input{
+    border-radius: 2%;
+}
+
+button{
+    background-color: red;
+    border-radius: 40%;
+}
